@@ -5,6 +5,7 @@ https://github.com/maddindeiss/co2monitor
 
 
 Aufruf darüber gelöst
+
     ```
 /USR/SBIN/CRON
   /bin/sh -c lua /home/pi/co2info/office_weather/report_sensors.lua
